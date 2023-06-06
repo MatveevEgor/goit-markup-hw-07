@@ -496,10 +496,6 @@ screen and (min-resolution: 2dppx) and (max-width: 767px) {
   border-top: none;
 }
 
-.section-portfolio-list-item {
-  /* flex-basis: calc((100% - 48px) / 3); */
-}
-
 .section-portfolio-list .list-title {
   margin-bottom: 8px;
 }
